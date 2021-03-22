@@ -1,0 +1,13 @@
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.exe
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.deps.json
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.runtimeconfig.json
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.runtimeconfig.dev.json
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.dll
+E:\dotnet nashtech\bin\Debug\netcoreapp3.1\dotnet nashtech.pdb
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.csprojAssemblyReference.cache
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.AssemblyInfoInputs.cache
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.AssemblyInfo.cs
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.csproj.CoreCompileInputs.cache
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.dll
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.pdb
+E:\dotnet nashtech\obj\Debug\netcoreapp3.1\dotnet nashtech.genruntimeconfig.cache
