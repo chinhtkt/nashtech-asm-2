@@ -92,20 +92,7 @@ namespace dotnet_nashtech
                 isGraduated = false,
                 
             };
-            
-        //    var members = new List<Member>()
-        //    {
-        //        new Member("Chinh","Nguyen","Male",12-05-2000,0925302500,"HaNoi",21,true),
-        //        new Member("Chien","Nguyen","Male",09-04-1966,0912015588,"HaNoi",58,false),
-        //        new Member("Hanh","Nguyen","Female",10-3-1964,0923143124,"HaNoi",60,true),
-        //        new Member("Phuc","Nguyen","Female",25-7-1990,0912015588,"HaNoi",31,true),
-        //        new Member("Kong","Nguyen","Female",1-1-1989,1234567890,"HaNoi",33,false),
-        //        new Member("A","Nguyen","Male",17-05-2000,1234567890,"HaNoi",21,true),
-        //        new Member("B","Nguyen","Female",19-05-2000,1234567890,"HaNoi",21,true),
-        //        new Member("C","Nguyen","Male",20-05-2000,1234567890,"HaNoi",21,true),   
-        //    };
-
-           //Console.WriteLine(members[1]);
+           
 
            var members = new List<Member>()
            {
@@ -160,13 +147,14 @@ namespace dotnet_nashtech
         //             break;
         //  }
         // }
-         foreach (var member in members)
-         {
-               if (member.birthPlace == "Ha Noi")
-              {
-                   System.Console.WriteLine(member.firstName );
+          // Excersise 5
+        // foreach (var member in members)
+        // {
+          //     if (member.birthPlace == "Ha Noi")
+           //   {
+           //        System.Console.WriteLine(member.firstName );
                    
-               }
+           //    }
                
            }
         
