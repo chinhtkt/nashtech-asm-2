@@ -102,69 +102,62 @@ namespace dotnet_nashtech
 
            //Excersise 1
 
-        //    foreach (var member in members)
-        //    {
-        //        if (member.Gender == "Male")
-        //        {
-        //            System.Console.WriteLine(member.firstName );
+            foreach (var member in members)
+            {
+               if (member.Gender == "Male")
+               {
+                   System.Console.WriteLine(member.firstName );
                    
-        //        }
+                }
                
-        //    }
+            }
 
         //    //Excersise 2
-        //    var maxAge = members.Max(x=>x.Age);
-        //    Console.WriteLine(maxAge);
+            var maxAge = members.Max(x=>x.Age);
+            Console.WriteLine(maxAge);
 
         //Excersise 3
 
-        //      foreach (var member in members)
-        //    {
-        //        Console.WriteLine(member.firstName + " " + member.lastName);
+             foreach (var member in members)
+           {
+               Console.WriteLine(member.firstName + " " + member.lastName);
                
-        //    }
+           }
 
-        // //Excersise 4
+         //Excersise 4
 
-        // int year = 1998;
+         int year = 1998;
 
-        // foreach(var member in members) {
-        //    switch( member.DOB > year ? "Greater than 1998" :
-        // member.DOB < year ? "Less than 1998" :
-        // member.DOB == year ? "Equal 1998" : "None")
-        // {
-        //       case "Greater than 1998":
-        //             Console.WriteLine("Member who greater than 1998:" + ' ' + member.DOB + ' ' + member.firstName);
-        //             break;
-        //        case "Less than 1998":
-        //             Console.WriteLine("Member who less than 1998:"  + ' ' + member.DOB + ' ' + member.firstName);
-        //             break;
-        //        case "Equal 1998":
-        //             Console.WriteLine("Member who equal 1998:" + ' ' + member.DOB + ' ' + member.firstName);
-        //             break;
-        //        case "None":
-        //             Console.WriteLine("None");
-        //             break;
-        //  }
-        // }
+         foreach(var member in members) {
+            switch( member.DOB > year ? "Greater than 1998" :
+         member.DOB < year ? "Less than 1998" :
+         member.DOB == year ? "Equal 1998" : "None")
+         {
+               case "Greater than 1998":
+                     Console.WriteLine("Member who greater than 1998:" + ' ' + member.DOB + ' ' + member.firstName);
+                     break;
+                case "Less than 1998":
+                     Console.WriteLine("Member who less than 1998:"  + ' ' + member.DOB + ' ' + member.firstName);
+                     break;
+               case "Equal 1998":
+                    Console.WriteLine("Member who equal 1998:" + ' ' + member.DOB + ' ' + member.firstName);
+                     break;
+               case "None":
+                     Console.WriteLine("None");
+                    break;
+         }
+         }
           // Excersise 5
-        // foreach (var member in members)
-        // {
-          //     if (member.birthPlace == "Ha Noi")
-           //   {
-           //        System.Console.WriteLine(member.firstName );
+         foreach (var member in members)
+         {
+               if (member.birthPlace == "Ha Noi")
+              {
+                   System.Console.WriteLine(member.firstName );
                    
-           //    }
+               }
                
            }
         
-       
-        
-            
-
-        
-       
-               
             
              }
                
